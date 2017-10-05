@@ -1,0 +1,16 @@
+1) add reunion.xml to your $FGDATA/Materials/regions/
+2) add the following line to your $FGDATA/Materials/regions/materials.xml:
+	
+	<region include="Materials/regions/reunion.xml"/>
+
+	after 
+	
+	<!-- Africa -->
+	<region include="Materials/regions/africa_savanna.xml"/>
+	<region include="Materials/regions/africa_desert.xml"/>
+	<region include="Materials/regions/africa_rainforest.xml"/>
+	<region include="Materials/regions/africa_mediterranean.xml"/>
+	<region include="Materials/regions/africa_kilimanjaro.xml"/>
+	<region include="Materials/regions/mediterranean_cities.xml"/>
+	<region include="Materials/regions/south_africa.xml"/>
+	<region include="Materials/regions/madagascar.xml"/>
