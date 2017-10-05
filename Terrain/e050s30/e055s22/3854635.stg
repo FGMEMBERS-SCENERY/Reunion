@@ -1,0 +1,5 @@
+OBJECT_BASE 3854635.btg
+OBJECT FMEP.btg
+OBJECT_SHARED Models/Airport/windsock.xml 55.420329 -21.319782 17.5 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 55.414730 -21.313926 19.1 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 55.430270 -21.325609 14.7 0.00
